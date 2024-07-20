@@ -102,3 +102,8 @@ nav {
   color: rgb(190, 186, 186);
   
 }
+
+.fa-regular fa-calendar-days{
+  padding-right: 20px;
+  color: black;
+}
